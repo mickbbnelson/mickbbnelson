@@ -6,23 +6,23 @@
 
 ## Languages, Libraries and Frameworks:
 
--CSS
--HTML
--JavaScript
--NPM
--Node.js
--React
--React Router
--Redux
--Ruby
--Ruby on Rails
--SQL
--Yarn
+-CSS <br />
+-HTML <br />
+-JavaScript <br />
+-NPM <br />
+-Node.js <br />
+-React <br />
+-React Router <br />
+-Redux <br />
+-Ruby <br />
+-Ruby on Rails <br />
+-SQL <br />
+-Yarn 
 
 ## 🌱 I’m currently working on: 
 -Making enhancements on my applications
 
 ## 📫  reach me at: 
--Email: mickbbnelson@gmail.com
--LinkedIn: https://www.linkedin.com/in/mick-nelson-denver/ 
+-Email: mickbbnelson@gmail.com <br />
+-LinkedIn: https://www.linkedin.com/in/mick-nelson-denver/ <br />
 -Blog: https://mickbbnelson.medium.com/
