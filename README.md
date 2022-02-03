@@ -1,8 +1,8 @@
-### Mick Nelson
+# Mick Nelson
 
 ## Full Stack Software Engineer
 
-# I recently completed the software engineer program at Flatiron School and am continuing to develop my skills with both frontend and backend programming.   
+### I recently completed the software engineer program at Flatiron School and am continuing to develop my skills with both frontend and backend programming.   
 
 ## Languages, Libraries and Frameworks:
 
