@@ -9,8 +9,8 @@
 -CSS <br />
 -HTML <br />
 -JavaScript <br />
--NPM <br />
 -Node.js <br />
+-NPM <br />
 -React <br />
 -React Router <br />
 -Redux <br />
