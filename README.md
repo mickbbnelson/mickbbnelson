@@ -20,7 +20,7 @@
 -Yarn 
 
 ## 🌱 I’m currently working on: 
--Making enhancements on my applications
+-Making enhancements on Focused Organizer and NBA Superteam applications.
 
 ## 📫  reach me at: 
 -Email: mickbbnelson@gmail.com <br />
