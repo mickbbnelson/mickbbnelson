@@ -4,13 +4,13 @@
 
 ### I recently completed the software engineer program at Flatiron School and am continuing to develop my skills with both frontend and backend programming.   
 
-## Languages, Libraries and Frameworks:
+## Tools and Languages:
 
 -CSS <br />
 -HTML <br />
 -JavaScript <br />
--Node.js <br />
 -NPM <br />
+-PostgreSQL <br />
 -React <br />
 -React Router <br />
 -Redux <br />
@@ -25,4 +25,3 @@
 ## 📫  reach me at: 
 -Email: mickbbnelson@gmail.com <br />
 -LinkedIn: https://www.linkedin.com/in/mick-nelson-denver/ <br />
--Blog: https://mickbbnelson.medium.com/
